@@ -1,0 +1,135 @@
+7
+
+;---------------NUKE---------------
+Name: Effect_Nuke
+SizeX: 1024
+SizeY: 1024
+
+22
+./../Textures/Effects/Nuke/Nuke_Anim1.png
+./../Textures/Effects/Nuke/Nuke_Anim2.png
+./../Textures/Effects/Nuke/Nuke_Anim3.png
+./../Textures/Effects/Nuke/Nuke_Anim4.png
+./../Textures/Effects/Nuke/Nuke_Anim5.png
+./../Textures/Effects/Nuke/Nuke_Anim6.png
+./../Textures/Effects/Nuke/Nuke_Anim7.png
+./../Textures/Effects/Nuke/Nuke_Anim8.png
+./../Textures/Effects/Nuke/Nuke_Anim9.png
+./../Textures/Effects/Nuke/Nuke_Anim10.png
+./../Textures/Effects/Nuke/Nuke_Anim11.png
+./../Textures/Effects/Nuke/Nuke_Anim12.png
+./../Textures/Effects/Nuke/Nuke_Anim13.png
+./../Textures/Effects/Nuke/Nuke_Anim14.png
+./../Textures/Effects/Nuke/Nuke_Anim15.png
+./../Textures/Effects/Nuke/Nuke_Anim16.png
+./../Textures/Effects/Nuke/Nuke_Anim17.png
+./../Textures/Effects/Nuke/Nuke_Anim18.png
+./../Textures/Effects/Nuke/Nuke_Anim19.png
+./../Textures/Effects/Nuke/Nuke_Anim20.png
+./../Textures/Effects/Nuke/Nuke_Anim21.png
+./../Textures/Effects/Nuke/Nuke_Anim22.png
+100
+
+;---------------MOVETARGET---------------
+Name: Effect_MoveTarget
+SizeX: 100
+SizeY: 100
+
+8
+./../Textures/Effects/MoveTarget/MoveTarget_Anim1.png
+./../Textures/Effects/MoveTarget/MoveTarget_Anim2.png
+./../Textures/Effects/MoveTarget/MoveTarget_Anim3.png
+./../Textures/Effects/MoveTarget/MoveTarget_Anim4.png
+./../Textures/Effects/MoveTarget/MoveTarget_Anim5.png
+./../Textures/Effects/MoveTarget/MoveTarget_Anim6.png
+./../Textures/Effects/MoveTarget/MoveTarget_Anim7.png
+./../Textures/Effects/MoveTarget/MoveTarget_Anim8.png
+50
+
+;---------------BLOODSPLASH---------------
+Name: Effect_BloodSplash
+SizeX: 32
+SizeY: 32
+
+5
+./../Textures/Effects/BloodSplash/BloodSplash_Anim1.png
+./../Textures/Effects/BloodSplash/BloodSplash_Anim2.png
+./../Textures/Effects/BloodSplash/BloodSplash_Anim3.png
+./../Textures/Effects/BloodSplash/BloodSplash_Anim4.png
+./../Textures/Effects/BloodSplash/BloodSplash_Anim5.png
+60
+
+;---------------SMOKE---------------
+Name: Effect_Smoke
+SizeX: 36
+SizeY: 36
+
+6
+./../Textures/Effects/Smoke/Smoke_Anim1.png
+./../Textures/Effects/Smoke/Smoke_Anim2.png
+./../Textures/Effects/Smoke/Smoke_Anim3.png
+./../Textures/Effects/Smoke/Smoke_Anim4.png
+./../Textures/Effects/Smoke/Smoke_Anim5.png
+./../Textures/Effects/Smoke/Smoke_Anim6.png
+50
+
+;---------------MUZZLEFLASH---------------
+Name: Effect_MuzzleFlash
+SizeX: 32
+SizeY: 64
+
+1
+./../Textures/Effects/MuzzleFlash/MuzzleFlash_Anim1.png
+10
+
+;---------------EXPLOSION---------------
+Name: Effect_Explosion
+SizeX: 144
+SizeY: 144
+
+8
+./../Textures/Effects/Explosion/Exp_Anim1.png
+./../Textures/Effects/Explosion/Exp_Anim2.png
+./../Textures/Effects/Explosion/Exp_Anim3.png
+./../Textures/Effects/Explosion/Exp_Anim4.png
+./../Textures/Effects/Explosion/Exp_Anim5.png
+./../Textures/Effects/Explosion/Exp_Anim6.png
+./../Textures/Effects/Explosion/Exp_Anim7.png
+./../Textures/Effects/Explosion/Exp_Anim8.png
+60
+
+;---------------ATCDEATH---------------
+Name: Effect_ATCDeath
+SizeX: 196
+SizeY: 196
+
+28
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim1.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim2.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim3.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim4.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim5.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim6.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim7.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim8.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim9.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim6.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim7.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim8.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim9.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim6.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim7.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim8.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim9.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim6.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim7.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim8.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim9.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim6.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim7.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim8.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim9.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim10.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim11.png
+./../Textures/Characters/ATC/DeathEffect/ATC_Death_Anim12.png
+100

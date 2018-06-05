@@ -1,0 +1,4 @@
+./../Config/CharacterList.txt
+./../Config/TerrainTextureList.txt
+./../Config/EffectList.txt
+./../Config/Ui.txt

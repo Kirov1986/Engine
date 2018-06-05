@@ -1,0 +1,50 @@
+;-------------------------DUDE-------------------------
+Name: Dude
+SizeX: 96
+SizeY: 128
+Health: 100000
+Speed: 5
+Range: 700
+Take_damage_effect: 2
+On_death_effect: -1
+
+Damage: 0
+AutoGuide: 0
+Fly_effect: -1
+Explosion_effect: -1
+Explosion_radius: 0
+MSec_per_shot: 0
+Projectile_speed: 0
+Projectile_fault: 0
+
+Projectile_color: 0 0 0
+Projectil_thick: 0
+Projectile_length: 0
+Projectile_life: 0
+
+Body_Part_position_X: 0
+Body_Part_position_Y: 0
+Shoot_position_X: 0
+Shoot_position_Y: 0
+
+Number_of_states: 4
+;-----0
+2
+./../Textures/Characters/Dude/Dude_Anim1.png
+./../Textures/Characters/Dude/Dude_Anim2.png
+500
+;-----1
+2
+./../Textures/Characters/Dude/Dude_Anim1.png
+./../Textures/Characters/Dude/Dude_Anim2.png
+500
+;-----2
+2
+./../Textures/Characters/Dude/Dude_Anim1.png
+./../Textures/Characters/Dude/Dude_Anim2.png
+500
+;-----3
+2
+./../Textures/Characters/Dude/Dude_Anim1.png
+./../Textures/Characters/Dude/Dude_Anim2.png
+500

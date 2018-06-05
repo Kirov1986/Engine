@@ -1,0 +1,77 @@
+Number_of_forms: 3
+
+;-------------------------UpperForm-------------------------
+Name: UpperForm
+Position_X: 0
+Position_Y(): 460
+Visible: 1
+
+Dynamic: 0
+Texture: ./../Textures/Ui/Ui_UpperBar.png
+Size_X: 440
+Size_Y: 80
+
+Number_of_buttons: 1
+
+;-----Menu
+Position_X: 10
+Position_Y: 10
+Size_X: 60
+Size_Y: 60
+Visible: 1
+Open_form: -1
+Number_of_states: 3
+./../Textures/Ui/Ui_Icon_Menu.png
+./../Textures/Ui/Ui_Icon_Menu_Hovered.png
+./../Textures/Ui/Ui_Icon_Menu_Selected.png
+
+;-------------------------MainForm-------------------------
+Name: MainForm
+Position_X: 0
+Position_Y(): 370
+Visible: 1
+
+Dynamic: 0
+Texture: ./../Textures/Ui/Ui_Map.png
+Size_X: 440
+Size_Y: 370
+
+Number_of_buttons: 2
+
+;-----Selection
+Position_X: 370
+Position_Y: 10
+Size_X: 60
+Size_Y: 60
+Visible: 1
+Open_form: 2
+Number_of_states: 3
+./../Textures/Ui/Ui_Icon_Selection.png
+./../Textures/Ui/Ui_Icon_Selection_Hovered.png
+./../Textures/Ui/Ui_Icon_Selection_Selected.png
+
+;-----Building
+Position_X: 370
+Position_Y: 70
+Size_X: 60
+Size_Y: 60
+Visible: 1
+Open_form: -1
+Number_of_states: 3
+./../Textures/Ui/Ui_Icon_Building.png
+./../Textures/Ui/Ui_Icon_Building_Hovered.png
+./../Textures/Ui/Ui_Icon_Building_Selected.png
+
+;-------------------------SelectForm-------------------------
+Name: SelectForm
+Position_X: 430
+Position_Y(): 370
+Visible: 0
+
+Dynamic: 1
+Start_bar: ./../Textures/Ui/Ui_StartBar.png
+Mid_bar: ./../Textures/Ui/Ui_MidBar.png
+End_bar: ./../Textures/Ui/Ui_EndBar.png
+Size: 10
+
+Number_of_buttons: 0

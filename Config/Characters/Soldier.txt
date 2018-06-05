@@ -1,0 +1,70 @@
+;-------------------------SOLDIER-------------------------
+Name: Soldier
+SizeX: 96
+SizeY: 128
+Health: 150
+Speed: 5
+Range: 700
+Take_damage_effect: 2
+On_death_effect: -1
+
+Damage: 1
+AutoGuide: 0
+Fly_effect: -1
+Explosion_effect: -1
+Explosion_radius: 0
+MSec_per_shot: 100
+Projectile_speed: 60
+Projectile_fault: 10
+
+Projectile_color: 225 225 0
+Projectil_thick: 3
+Projectile_length: 20
+Projectile_life: 2000
+
+Body_Part_position_X: 0
+Body_Part_position_Y: 0
+Shoot_position_X: 0
+Shoot_position_Y: 0
+
+Number_of_states: 4
+;-----0
+4
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Peace1.png
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Peace2.png
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Peace3.png
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Peace2.png
+250
+;-----1
+10
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Move1.png
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Move2.png
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Move3.png
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Move3.png
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Move2.png
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Move1.png
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Move4.png
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Move5.png
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Move5.png
+./../Textures/Characters/Soldier/D/Soldier_Anim_D_Move4.png
+125
+;-----2
+4
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Peace1.png
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Peace2.png
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Peace3.png
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Peace2.png
+250
+;-----3
+10
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Move1.png
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Move2.png
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Move3.png
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Move4.png
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Move5.png
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Move6.png
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Move7.png
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Move8.png
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Move9.png
+./../Textures/Characters/Soldier/L/Soldier_Anim_L_Move10.png
+125

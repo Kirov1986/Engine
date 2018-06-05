@@ -1,0 +1,5 @@
+4
+./../Config/Characters/ATC-1.txt
+./../Config/Characters/ATC-2.txt
+./../Config/Characters/Soldier.txt
+./../Config/Characters/Dude.txt

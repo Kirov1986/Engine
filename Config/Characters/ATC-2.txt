@@ -1,0 +1,48 @@
+;-------------------------ATC-------------------------
+Name: ATC
+SizeX: 192
+SizeY: 192
+Health: 10000
+Speed: 5
+Range: 1000
+Take_damage_effect: 2
+On_death_effect: 6
+
+Damage: 1000
+AutoGuide: 1
+Fly_effect: 3
+Explosion_effect: 5
+Explosion_radius: 0
+MSec_per_shot: 1100
+Projectile_speed: 20
+Projectile_fault: 10
+
+Projectile_color: 250 250 250
+Projectil_thick: 6
+Projectile_length: 30
+Projectile_life: 2000
+
+Body_Part_position_X: 0
+Body_Part_position_Y: 24
+Shoot_position_X: 0
+Shoot_position_Y: -72
+
+Number_of_states: 4
+;-----Move_Part_Peace
+1
+./../Textures/Characters/ATC/MP_Peace/MP_Peace_Anim1.png
+1000
+;-----Move_Part_Move
+2
+./../Textures/Characters/ATC/MP_Move/MP_Move_Anim1.png
+./../Textures/Characters/ATC/MP_Move/MP_Move_Anim2.png
+100
+;-----Body_Peace
+1
+./../Textures/Characters/ATC/BP_Peace/BP_Peace_Anim1.png
+1000
+;-----Body_Shoot
+2
+./../Textures/Characters/ATC/BP_Shoot/BP_Shoot_Anim1.png
+./../Textures/Characters/ATC/BP_Shoot/BP_Shoot_Anim2.png
+50

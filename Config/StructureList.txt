@@ -1,0 +1,6 @@
+1
+
+House 256 256
+2
+./../Textures/Structures/House/House1.png
+./../Textures/Structures/House/House2.png

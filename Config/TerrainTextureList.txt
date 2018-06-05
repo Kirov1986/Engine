@@ -1,0 +1,7 @@
+6
+./../Textures/Terrain/New/Sand.png		Sand		384 384
+./../Textures/Terrain/New/Road_H.png		Road_H		384 384
+./../Textures/Terrain/New/Road_H_Hole.png	Road_H_Hole	384 384
+./../Textures/Terrain/New/Road_V.png		Road_V		384 384
+./../Textures/Terrain/New/Road_V_Hole.png	Road_V_Hole	384 384
+./../Textures/Terrain/New/Road_IS.png		Road_IS 	384 384
